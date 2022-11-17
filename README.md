@@ -9,21 +9,20 @@ This notebook was composed for the "Working with Environmental Data Sets" course
 
 ## Important Concepts
 This notebook is intended for educational purposes. Student authors practiced the following skills and commands:
+- exploring data resources
 - dataset research
-- index joins
 - data subsetting
 - plotting
 
 ## Setup
 The Python code is wrapped in a Jupyter notebook for convenient explanations and code aside. The following **packages** were utilized during this analysis:
 
-Data Analysis
-- pandas
-- numpy
-- matplotlib
 - geopandas
-- shapely
-- contextily
+- requests
+- zipfile
+- io
+- matplotlib
+- seaborn
 
 ## How to run?
 Below is a link to the Binder Environment for this project. It will allow you to run the contents of this lab without generating a new environment locally. (link to come)
