@@ -5,10 +5,9 @@
 #### Student Authors: Alex Reed, Erica Dale, Michelle Lam, and Wen-Tien Wang
 
 ## Objective 
-This final assignment is a student led, data intensive analysis on a dataset our choosing.  Air quality serves as an important indicator of human health 
-This notebook was composed for the "Working with Environmental Data Sets" course of "Environmental Data Science" (EDS 220) at the University of California Santa Barbara in Fall 2022. It provides an introduction to using National Risk Index (NRI) data from the Federal Emergency Management Agency (FEMA).The purpose of this project is to assess the estimated annual loss due to natural hazards affecting states acoss the United States. Historic and current data acquisition is important for planners, emergency managers, and other decision makers. With improved understanding of natural hazard risk, communities can take action to reduce the risk specific to that community. This data is made available by FEMA and is freely accessible. Data resources can be found here: https://hazards.fema.gov/nri/data-resources
+This notebook was composed for the "Working with Environmental Data Sets" course of "Environmental Data Science" (EDS 220) at the University of California Santa Barbara in Fall 2022. It provides an introduction to using National Risk Index (NRI) data. This data is made available by the Federal Emergency Management Agency (FEMA) and is freely accessible. The purpose of this project is to assess the estimated annual loss due to natural hazards affecting states across the United States. The notebook provides instruction and example code on how to pull in the NRI data directly from the source. Historic and current data acquisition is important for planners, emergency managers, and other decision makers. With improved understanding of natural hazard risk, communities can take action to reduce the risk specific to that community. With improved understanding of natural hazard risk, communities can take action to reduce the risk specific to that community. Data resources can be found here: https://hazards.fema.gov/nri/data-resources
 
-## Intended Purpose and Important Concepts
+## Important Concepts
 This notebook is intended for educational purposes. Student authors practiced the following skills and commands:
 - dataset research
 - index joins
