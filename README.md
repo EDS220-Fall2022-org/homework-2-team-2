@@ -1,28 +1,30 @@
-# EDS220_Fall2022_HW2
-### Information needed for HW2 and final project for EDS 220, Fall 2022
+# EDS220 Final Project
 
-This repository contains useful template information for working on assignments for EDS 220 Working With Environmental Data at UC Santa Barbara (Fall 2021 quarter). 
+## Exploring the Estimated Annual Loss Due to Natural Hazards in the US
 
-Contents:
-- HW2_template.ipynb: Template Jupyter notebook for use in Homework 2 and final project
-- environment.yml: Template environment file for use in creating Binder environment for running Jupyter notebook
+#### Student Authors: Alex Reed, Erica Dale, Michelle Lam, and Wen-Tien Wang
 
-Information for Homework 2:
-- Due date = **Friday, November 18**
-- Deliverables:
-   - Jupyter notebook template - complete sections through "Metadata and Basic Visualization"
-   - Any necessary data or supporting files included in the repo
-   - README file edited to be appropriate for your project
+## Objective 
+This notebook was composed for the "Working with Environmental Data Sets" course of "Environmental Data Science" (EDS 220) at the University of California Santa Barbara in Fall 2022. It provides an introduction to using National Risk Index (NRI) data. This data is made available by the Federal Emergency Management Agency (FEMA) and is freely accessible. The purpose of this project is to assess the estimated annual loss due to natural hazards affecting states across the United States. The notebook provides instruction and example code on how to pull in the NRI data directly from the source. Historic and current data acquisition is important for planners, emergency managers, and other decision makers. With improved understanding of natural hazard risk, communities can take action to reduce the risk specific to that community. With improved understanding of natural hazard risk, communities can take action to reduce the risk specific to that community. Data resources can be found here: https://hazards.fema.gov/nri/data-resources
 
+## Important Concepts
+This notebook is intended for educational purposes. Student authors practiced the following skills and commands:
+- dataset research
+- index joins
+- data subsetting
+- plotting
 
-Information for final project:
-- Presentation dates: **Nov 29; Dec 1**
-- Final writeup hand-in date: **Dec 5**
-- Deliverables (for in-class presentation):
-  - Jupyter notebook - all sections completed, initial sections edited to reflect grade feedback
-  - Binder environment compiled to allow others to run code easily
-  - Group-led presentation on assigned date
+## Setup
+The Python code is wrapped in a Jupyter notebook for convenient explanations and code aside. The following **packages** were utilized during this analysis:
 
-- Deliverables (for final writeup):
-  - Jupyter notebook, supporting data files, Binder environment, and README in repo
-  - Edits reflecting student and instructor feedback can be made until due date
+Data Analysis
+- pandas
+- numpy
+- matplotlib
+- geopandas
+- shapely
+- contextily
+
+## How to run?
+Below is a link to the Binder Environment for this project. It will allow you to run the contents of this lab without generating a new environment locally. (link to come)
+
